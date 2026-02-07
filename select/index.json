@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "プラネタリウム",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-07T23:27:11.140082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "スガシカオ",
+      "has_synced": true,
+      "path": "select/01_プラネタリウム_スガシカオ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プラネタリウム - LOVE IS BORN 〜15th Anniversary 2018〜",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/02_プラネタリウム_-_LOVE_IS_BORN_〜15th_Anniversary_2018〜_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/03_プラネタリウム_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/04_プラネタリウム_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_プラネタリウム_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Planetarium [プラネタリウム]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_Planetarium_[プラネタリウム]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/07_プラネタリウム_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/08_プラネタリウム_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/09_プラネタリウム_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/10_プラネタリウム_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/11_プラネタリウム_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プラネタリウム -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_プラネタリウム_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プラネタリウム",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": false,
+      "path": "select/13_プラネタリウム_アトラスサウンドチーム.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラネタリウム",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_プラネタリウム_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
